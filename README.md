@@ -18,7 +18,7 @@ To use:
     
     phone_email = "your_number@your_providers_domain.com"
     
-    app_email = the amil address you create to send these alerts
+    app_email = the email address you create to send these alerts
     
     password = ...
     
