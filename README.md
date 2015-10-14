@@ -10,7 +10,7 @@ To use:
     
     interval_days = the number of days until you want to have quit
     
-    awake_time = the time you spend NOT sleeping
+    awake_time = the time you spend NOT sleeping in hours, each day
     
     wake = the hour that you wake up (int)
     
